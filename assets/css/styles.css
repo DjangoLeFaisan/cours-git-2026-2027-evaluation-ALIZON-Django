@@ -1,0 +1,25 @@
+/* bitcount-prop-single-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Bitcount Prop Single';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/bitcount-prop-single-v3-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+* {
+    font-family: "Bitcount Prop Single";
+}
+
+main {
+    background-color: beige;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 24px;
+}
+
+li {
+    color: #3e3e3e;
+}
