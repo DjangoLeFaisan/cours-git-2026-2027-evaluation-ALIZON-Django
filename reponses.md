@@ -1,6 +1,8 @@
-Identifiant court du premier commit : 81b824
-Commit correspondant à l'ajout de la page contact : 1da2a0
-Nombre de commits à l'heure actuelle : 5
-Commande pour afficher l'historique en mode graphique : git log --graph
-Commande pour examiner un commit : git show [hash du commit]
-Commande choisie pour annuler les modifications : git reset --hard [hash du commit auquel il faut revenir]
+- Identifiant court du premier commit : 81b824
+- Commit correspondant à l'ajout de la page contact : 1da2a0
+- Nombre de commits à l'heure actuelle : 5
+- Commande pour afficher l'historique en mode graphique : git log --graph
+- Commande pour examiner un commit : git show [hash du commit]
+- Commande choisie pour annuler les modifications : git reset --hard [hash du commit auquel il faut revenir]
+- Commande utilisée pour sélectionner un seul commit d'une branche expérimentale à appliquer : git cherry-pick [hash du commit à garder] (dans mon cas "9553912")
+- Explication des différents chiffres dans une numérotation de version sous forme "X.X.X" : le premier chiffre exprime la version actuelle du logiciel (comme pour Windows 7, 10, 11), le deuxième exprime les différentes mises à jour importantes, et le dernier exprime les fixes mineurs.
